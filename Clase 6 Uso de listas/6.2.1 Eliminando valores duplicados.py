@@ -1,7 +1,7 @@
 '''
-Clase:        Clase 5
+Clase:        Clase 6
 Tema:         Uso de listas
-Ejercicio:    6.3.1
+Ejercicio:    6.2.1
 Descripción:  Cree un programa que elimine los números repetidos de una lista
 
 Autor:        Dennis Alejandro Palacios López
