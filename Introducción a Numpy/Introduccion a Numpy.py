@@ -1,3 +1,12 @@
+'''
+Clase:        Clase 7
+Tema:         Uso de Nmpy
+
+Autor:        Dennis Alejandro Palacios López
+Fecha:        2025-06-2
+Estado:       Terminado 
+'''
+
 import numpy as np
 
 consumo = np.array([
