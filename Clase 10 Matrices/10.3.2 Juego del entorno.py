@@ -1,3 +1,19 @@
+'''
+Clase:        Clase 10
+Tema:         Uso de Matrices
+Ejercicio:    10.3.2
+Descripción:  Dada una matriz binaria ingresada por el
+usuario, verifica para cada celda de una
+matriz binaria cuántos elementos con valor
+de 1 hay en las celdas vecinas (arriba, abajo,
+izquierda, derecha, diagonales).
+
+Autor:        Dennis Alejandro Palacios López
+Fecha:        2025-06-14
+Estado:       Terminado 
+'''
+
+
 n = int(input("Ingrese el número de filas: "))  
 m = int(input("Ingrese el número de columnas: ")) 
 

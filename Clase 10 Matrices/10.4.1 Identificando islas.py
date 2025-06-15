@@ -1,3 +1,18 @@
+'''
+Clase:        Clase 10
+Tema:         Uso de Matrices
+Ejercicio:    10.4.1
+Descripción:  Dada una matriz binaria ingresada por el
+usuario (0 = agua, 1 = tierra), cuenta la
+cantidad de islas disponibles. Una isla está
+formada por elementos con valor de 1
+conectados horizontal o verticalmente.
+
+Autor:        Dennis Alejandro Palacios López
+Fecha:        2025-06-14
+Estado:       Terminado 
+'''
+
 n = int(input("Ingrese el número de filas: "))
 m = int(input("Ingrese el número de columnas: "))
 

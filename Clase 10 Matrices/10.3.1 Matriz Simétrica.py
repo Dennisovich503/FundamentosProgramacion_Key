@@ -1,3 +1,16 @@
+'''
+Clase:        Clase 10
+Tema:         Uso de Matrices
+Ejercicio:    10.3.1
+Descripción:  Dada una matriz cuadrada ingresada por el
+usuario, comprueba si la matriz cuadrada es
+simétrica respecto a su diagonal principal.
+
+Autor:        Dennis Alejandro Palacios López
+Fecha:        2025-06-14
+Estado:       Terminado 
+'''
+
 # Pedimos al usuario el tamaño de la matriz
 n = int(input("Ingrese el tamaño de la matriz (N): "))
 

@@ -1,3 +1,18 @@
+'''
+Clase:        Clase 10
+Tema:         Uso de Matrices
+Ejercicio:    10.2.1
+Descripción:  Dada una matriz cuadrada ingresada por el
+usuario, crea dos listas, una con los
+elementos de la diagonal principal y la otra
+con los elementos de la diagonal
+secundaria.
+
+Autor:        Dennis Alejandro Palacios López
+Fecha:        2025-06-14
+Estado:       Terminado 
+'''
+
 # Pedimos al usuario el tamaño de la matriz
 t_matriz = int(input("Ingrese el tamaño de la matriz (N): "))
 
